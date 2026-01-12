@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-size: 42px; font-weight: 600;">
+<h1 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 42px; font-weight: 600;">
   Shankara Narayana
 </h1>
 
