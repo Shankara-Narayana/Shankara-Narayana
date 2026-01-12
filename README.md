@@ -4,10 +4,6 @@
 
 <h3 align="center">BTS - Built. Test. Solve.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankara-narayana&label=Impressions&color=0e75b6&style=flat" alt="shankara-narayana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankara-narayana" alt="shankara-narayana" /></a> </p>
-
 - 🌱 I’m currently learning **Software Testing**
 
 - 📝 I regularly write articles on [CoffeeWithCareer.blogspot.com](CoffeeWithCareer.blogspot.com)
