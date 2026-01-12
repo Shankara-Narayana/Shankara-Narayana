@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shankara Narayana</h1>
+<h1 align="center">Shankara Narayana</h1>
 <h3 align="center">BTS - Built. Test. Solve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankara-narayana&label=Impressions&color=0e75b6&style=flat" alt="shankara-narayana" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shankarnarayan0202@gmail.com**
 
-- 📄 Know about my experiences [Na Na Na - It's Private](Na Na Na - It's Private)
+- 📄 Know about my experiences Fresher in Documents.
 
 - ⚡ Fun fact **Just a Nerd**
 
