@@ -1,4 +1,7 @@
-<h1 align="center">Shankara Narayana</h1>
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-size: 42px; font-weight: 600;">
+  Shankara Narayana
+</h1>
+
 <h3 align="center">BTS - Built. Test. Solve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankara-narayana&label=Impressions&color=0e75b6&style=flat" alt="shankara-narayana" /> </p>
