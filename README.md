@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **shankarnarayan0202@gmail.com**
 
-- 📄 Know about my experiences Fresher in Documents.
+- 📄 Know about my experiences - Fresher in Documents
 
-- ⚡ Fun fact **Just a Nerd**
+- ⚡ Fun fact - **Just a Nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
